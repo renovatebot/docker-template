@@ -1,2 +1,6 @@
-# docker-template
-Template repo for Renovate's Docker builds
+# docker-cocoapods
+
+Docker image for `pod` command.
+
+Note: Gemfile exists only to trigger Renovate PRs.
+
